@@ -1,0 +1,17 @@
+C:\Hemant\C#\DiceRollGameCLI\DiceRollGameCLI\bin\Debug\net9.0-windows10.0.26100.0\DiceRollGameCLI.exe
+C:\Hemant\C#\DiceRollGameCLI\DiceRollGameCLI\bin\Debug\net9.0-windows10.0.26100.0\DiceRollGameCLI.deps.json
+C:\Hemant\C#\DiceRollGameCLI\DiceRollGameCLI\bin\Debug\net9.0-windows10.0.26100.0\DiceRollGameCLI.runtimeconfig.json
+C:\Hemant\C#\DiceRollGameCLI\DiceRollGameCLI\bin\Debug\net9.0-windows10.0.26100.0\DiceRollGameCLI.dll
+C:\Hemant\C#\DiceRollGameCLI\DiceRollGameCLI\bin\Debug\net9.0-windows10.0.26100.0\DiceRollGameCLI.pdb
+C:\Hemant\C#\DiceRollGameCLI\DiceRollGameCLI\bin\Debug\net9.0-windows10.0.26100.0\Microsoft.Windows.SDK.NET.dll
+C:\Hemant\C#\DiceRollGameCLI\DiceRollGameCLI\bin\Debug\net9.0-windows10.0.26100.0\WinRT.Runtime.dll
+C:\Hemant\C#\DiceRollGameCLI\DiceRollGameCLI\obj\Debug\net9.0-windows10.0.26100.0\DiceRollGameCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hemant\C#\DiceRollGameCLI\DiceRollGameCLI\obj\Debug\net9.0-windows10.0.26100.0\DiceRollGameCLI.AssemblyInfoInputs.cache
+C:\Hemant\C#\DiceRollGameCLI\DiceRollGameCLI\obj\Debug\net9.0-windows10.0.26100.0\DiceRollGameCLI.AssemblyInfo.cs
+C:\Hemant\C#\DiceRollGameCLI\DiceRollGameCLI\obj\Debug\net9.0-windows10.0.26100.0\DiceRollGameCLI.csproj.CoreCompileInputs.cache
+C:\Hemant\C#\DiceRollGameCLI\DiceRollGameCLI\obj\Debug\net9.0-windows10.0.26100.0\DiceRoll.28DEA5FF.Up2Date
+C:\Hemant\C#\DiceRollGameCLI\DiceRollGameCLI\obj\Debug\net9.0-windows10.0.26100.0\DiceRollGameCLI.dll
+C:\Hemant\C#\DiceRollGameCLI\DiceRollGameCLI\obj\Debug\net9.0-windows10.0.26100.0\refint\DiceRollGameCLI.dll
+C:\Hemant\C#\DiceRollGameCLI\DiceRollGameCLI\obj\Debug\net9.0-windows10.0.26100.0\DiceRollGameCLI.pdb
+C:\Hemant\C#\DiceRollGameCLI\DiceRollGameCLI\obj\Debug\net9.0-windows10.0.26100.0\DiceRollGameCLI.genruntimeconfig.cache
+C:\Hemant\C#\DiceRollGameCLI\DiceRollGameCLI\obj\Debug\net9.0-windows10.0.26100.0\ref\DiceRollGameCLI.dll
